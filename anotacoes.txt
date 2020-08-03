@@ -1,0 +1,7 @@
+react scripts tem um conjunto de conf pro react ser entendido pelo browser. Internamente ele tem o Babel e o Webpack
+
+router-dom é o modulo mais para fazer navegação, controlar o componente ativo baseado na navegação.
+
+nas rotas o react verifica o path como um include, usamos o exact para verifica igualdade (pois apenas no include, podemos ter componentes repetidos)
+
+pra declarar as tipagens com typescripts interface (define o formato das tipagens) <Nome>Props{}
