@@ -5,3 +5,25 @@ router-dom é o modulo mais para fazer navegação, controlar o componente ativo
 nas rotas o react verifica o path como um include, usamos o exact para verifica igualdade (pois apenas no include, podemos ter componentes repetidos)
 
 pra declarar as tipagens com typescripts interface (define o formato das tipagens) <Nome>Props{}
+
+node é non-block IO, existe um controle com asyncronism. EX: dá pra enviar o email e cadastrar um user ao mesmo tempo
+
+ts-node-dev executa o server e fica observando
+
+flag --transpile-only faz com que ele só faça a transpilação e não fique verificando erros
+
+flag --ignore-watch node_modules evita converter códigos de lá
+
+flag --respawn toda vez que alterar o cod, restart e só para com o ctrl+c
+
+rota é o endereço da aplicação
+
+recurso é o /users 
+
+insert permite inserir varios users, logo retorna uma lista de Ids
+
+transaction é fazer todas as operações do banco ao mesmo tempo, e se uma delas falhar, desfazer todas ao mesmo tempo
+
+apenas no trx.commit que ele insere tudo no db (ou não)
+
+damos um trx.rollback no catch para desfazer alterações que foram feitas até cair nele
