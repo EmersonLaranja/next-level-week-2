@@ -27,3 +27,30 @@ transaction é fazer todas as operações do banco ao mesmo tempo, e se uma dela
 apenas no trx.commit que ele insere tudo no db (ou não)
 
 damos um trx.rollback no catch para desfazer alterações que foram feitas até cair nele
+
+React Native não trabalha com classes/id/classes
+
+Native não funciona herança, estilo do item no item, exceto a tag Text
+
+React não lê svg, teria que instalar um pacote para isso
+
+Native lida automaticamente com a densidade de pixels da tela, (busca pelo @ da tela @2x, @3x)
+
+resizeMode redimensiona  a imagem proporcionalmente a altura/largura 
+  *contain:e todo o conteudo visivel
+  *cover:corta a imagem para acontecer
+
+{'\n'} para quebra de linha
+
+expo google fonts para importamos fonts no react native
+
+AppLoading é um componente do expo que mostra o mesmo conteudo de uma splash,usaremos ele até as fontes estarem carregadas
+
+
+dentro do native não tem variaveis do css, mas daria pra usar variaveis do JS
+
+criamos uma pasta Routes pois usaremos mais de um tipo de navegação (stack e em abas)
+
+NavigationContainer tipo o BrowserRouter, tem que ficar em volta de todas as rotas
+
+elevation é a propriedade de sombras no android
