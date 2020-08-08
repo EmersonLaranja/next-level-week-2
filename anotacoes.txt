@@ -54,3 +54,12 @@ criamos uma pasta Routes pois usaremos mais de um tipo de navegação (stack e e
 NavigationContainer tipo o BrowserRouter, tem que ficar em volta de todas as rotas
 
 elevation é a propriedade de sombras no android
+
+quando queremos colocar o source de uma img externa usamos o uri
+
+no interface, o ReactNode nos permite receber um componente como props
+
+diferente do web, usamos como base_url um ip acessível pela rede, daí consegue usar seu celular e o emulador (visto que não pega o localhost)
+
+deep linking = uma aplicação abrir outra
+
