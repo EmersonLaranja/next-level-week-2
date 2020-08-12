@@ -15,18 +15,18 @@
   <a href="#memo-licença">License</a>
 </p>
 
-## 👨‍💻 Tecnologias
+## 👨‍💻 Technologies
 
 This project was developed with:
 
-- [Node.js](https://nodejs.org/en/)
 - [React](https://reactjs.org/)
 - [React Native](https://reactnative.dev/)
+- [Node.js](https://nodejs.org/en/)
+-[SQLite](https://www.sqlite.org/index.html)
 
 ## 💻 Project
 
 Next Level Week is an event provided by [Rocketseat](https://rocketseat.com.br/) where we develop a web and mobile application. The project for this week is the **Proffy**!
-
 Into Proffy you can find a class to learn about what you need or teach others.
 
 <!-- ## 🏁 How to Start
