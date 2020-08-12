@@ -10,7 +10,7 @@
 <p align="center">
   <a href="#rocket-tecnologias">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">How to Start</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <!-- <a href="#-layout">How to Start</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; -->
   <a href="#-como-contribuir">Images and Gifs</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">License</a>
 </p>
@@ -29,17 +29,22 @@ Next Level Week is an event provided by [Rocketseat](https://rocketseat.com.br/)
 
 Into Proffy you can find a class to learn about what you need or teach others.
 
-## 🏁 How to Start
+<!-- ## 🏁 How to Start
 
 1. Fork and clone this repository
 1. Type the command `yarn` to update the project dependencies
 1. Type the command `yarn start` to start your project
 
-That's it ✔
+That's it ✔ -->
 
-# 🖼️ Images and Gifs
+# 🖼️ Images 
+ ## Web
+ <div align="center">
+ <img src= "/.github/images/web-main-screen.png" width=
+ "200"/>
+ ![](.github/images/mobile-favorites-screen.png)
+  </div>
 
-Coming soon
 
 ## 📝 License
 
