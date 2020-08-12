@@ -22,7 +22,7 @@ This project was developed with:
 - [React](https://reactjs.org/)
 - [React Native](https://reactnative.dev/)
 - [Node.js](https://nodejs.org/en/)
--[SQLite](https://www.sqlite.org/index.html)
+- [SQLite](https://www.sqlite.org/index.html)
 
 ## 💻 Project
 
