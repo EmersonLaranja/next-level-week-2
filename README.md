@@ -40,17 +40,17 @@ That's it ✔ -->
 # 🖼️ Images 
  ## Web
  <h1 align="center">
- <img src= ".github\images\web-main-screen.png" height= "250" />
- <img src= ".github\images\web-give-classes-screen.png" height= "250" />
- <img src= ".github\images\web-study-screen.png" height= "250" />
- <img src= ".github\images\web-study-responsive-screen.png" height= "250" />
+ <img src= ".github\images\web-main-screen.png" width= "250" />
+ <img src= ".github\images\web-give-classes-screen.png" width= "250" />
+ <img src= ".github\images\web-study-screen.png" width= "250" />
+ <img src= ".github\images\web-study-responsive-screen.png" width= "250" />
 </h1>
 
  ## Mobile
  <h1 align="center">
- <img src= ".github\images\mobile-main-screen.jpg" height= "250" />
- <img src= ".github\images\mobile-favorites-screen.png" height= "250" />
- <img src= ".github\images\mobile-wanttobeaproffy-screen.jpg" height= "250" />
+ <img src= ".github\images\mobile-main-screen.jpg" width= "250" />
+ <img src= ".github\images\mobile-favorites-screen.png" width= "250" />
+ <img src= ".github\images\mobile-wanttobeaproffy-screen.jpg" width= "250" />
 
 </h1>
 
